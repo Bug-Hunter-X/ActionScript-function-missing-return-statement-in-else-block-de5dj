@@ -1,0 +1,1 @@
+This repository contains an example of a common ActionScript error: a missing return statement in a function that's declared to return a value.  The `bug.as` file demonstrates the error, while `bugSolution.as` shows the corrected code. This error can lead to unexpected behavior or runtime errors, particularly when the function is called from other parts of the application.
